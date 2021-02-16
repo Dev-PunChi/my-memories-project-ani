@@ -1,2 +1,14 @@
-# my-memories-project-ani
-나의 추억의 자료들을 발견하다 # animation page
+# 추억의 프로젝트 흔적 \# Animation Home Page
+
+## [Animation Home Page](https://dev-punchi.github.io/my-memories-project-ani)
+
+사라진줄만 알았던 자료가.. 외장하드에서 발견되어 자료보관겸 Github에 게시하게 되었다.  
+해당 자료는.. 내가 아주 오래전 컴퓨터 공부를 하며 작업했던 결과물들인데...  
+확인해보니 코드들도 엉망이고 내용이 손발이 오그라 들거같군...🤣  
+그래도 중,고등학교 시절 개발공부를 하던 자료가 남아있으니 감회가 새롭구나!
+
+## Project Info
+
+- 개발시기 - 약 21년전 2000년도 초반정도로 기억
+- 목적 - 당시에 유행하던 Animation 에대한 Comunication 사이트를 개발하고자 했던거 같다
+- 사용툴 -  **나모웹 에디터**와 **포토샵**을 써가며.. 나름 열심히 작업했던 기억이 조금 떠오른다
